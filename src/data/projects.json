@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Blood& organ Donation website",
+    "imageSrc": "projects/project.png",
+    "description": "The website is a user friendly interface.It helps both donar and Recepients when they want to donate or when the want the particualr details",
+    "skills": ["Firebase", "HTMl",  "CSS","Node"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Salary Predection",
+    "imageSrc": "projects/project.png",
+    "description":"The salary prediction project is a Machine Learning application designed to predict a person salary based on the years of the employee Experience.",
+    "skills": ["Random Forest","Linear Regression","supervised ML"],
+    "source": "https://www.github.com"
+  }
+ 
+]
